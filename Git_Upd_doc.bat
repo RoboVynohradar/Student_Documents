@@ -1,7 +1,7 @@
 git checkout -b %computername%
 git checkout %computername%
 
-git pull
+git fetch
 
 git add .
 

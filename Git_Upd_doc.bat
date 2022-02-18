@@ -1,4 +1,4 @@
-set repo = Student_Documents
+set "repo=Student_Documents"
 
 git checkout -b %computername%
 git checkout %computername%
